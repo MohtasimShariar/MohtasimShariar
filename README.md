@@ -1,27 +1,28 @@
 <h1 align="center">Hi 👋, I'm Md.Mohtasim Shariar</h1>
+<hr/>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohtasimshariar&label=Profile%20views&color=0e75b6&style=flat" alt="mohtasimshariar" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohtasimshariar" alt="mohtasimshariar" /></a> </p>
 
-- 🔭 My Portfolio Website [personal-webapp](https://mohtasim-shariar.web.app/)
+- 🔭 My Portfolio Website Name : [" Personal-Web-App " Link:](https://mohtasim-shariar.web.app/)
 
-- 🌱 I’m currently learning **MERN STACK & Programming**
+- 🌱 I’m currently learning **" MERN STACK & Programming "**
 
-- 👯 I’m looking to collaborate on [hello-buddy-media](https://github.com/MJoynalAbedin/hello-buddy-media)
+- 👯 I’m looking to collaborate on : [" hello-buddy-media " Link:](hello-buddy-media.web.app)
 
-- 🤝 My MERN STACK Web-App [solar-studio](https://solar-studio-d83bc.web.app/)
+- 🤝 My MERN STACK Web-App : [" solar-studio " Link:](https://solar-studio-d83bc.web.app/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/MohtasimShariar](https://github.com/MohtasimShariar)
+- 👨‍💻 All of my projects are available at : [https://github.com/MohtasimShariar](https://github.com/MohtasimShariar)
 
-- 📝 I regularly write articles on [https://shariar.medium.com/](https://shariar.medium.com/)
+- 📝 I regularly write articles on : [https://shariar.medium.com/](https://shariar.medium.com/)
 
-- 💬 Ask me about **Web Design & Development**
+- 💬 Ask me about **" Web Design & Development, Programming "**
 
-- 📫 How to reach me **onim04@gmail.com**
+- 📫 Mail Address **onim04@gmail.com**
 
-- 📄 Know about my experiences on my resume [https://drive.google.com/file/d/1EBh1B7ZJGL86u-FzyhGUxVTEvQ3Bu-2i/view?usp=sharing](https://drive.google.com/file/d/1EBh1B7ZJGL86u-FzyhGUxVTEvQ3Bu-2i/view?usp=sharing)
+- 📄 Know about my experiences on my resume Link : [https://drive.google.com/file/d/1EBh1B7ZJGL86u-FzyhGUxVTEvQ3Bu-2i/view?usp=sharing](https://drive.google.com/file/d/1EBh1B7ZJGL86u-FzyhGUxVTEvQ3Bu-2i/view?usp=sharing)
 
 - ⚡ Fun fact **I like to making cartoons on YouTube**
 
