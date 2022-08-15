@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohtasimshariar" alt="mohtasimshariar" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/@mohtasimshariar" target="blank"><img src="https://img.shields.io/twitter/follow/@mohtasimshariar?logo=twitter&style=for-the-badge" alt="@mohtasimshariar" /></a> </p>
+
 - 🔭 My Portfolio Website Name : [" Personal-Web-App "](https://mohtasim-shariar.web.app/)
 
 - 🌱 I’m currently learning **" MERN STACK & Programming "**
@@ -31,6 +33,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/@mohtasimshariar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mohtasimshariar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/md.mohtasim shariar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md.mohtasim shariar" height="30" width="40" /></a>
 <a href="https://fb.com/mohtasim shariar onim (solar boy )" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohtasim shariar onim (solar boy )" height="30" width="40" /></a>
 <a href="https://instagram.com/shariar_onim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shariar_onim" height="30" width="40" /></a>
